@@ -1,5 +1,5 @@
 /* -----------------------------------------
-  Have focus outline only for keyboard users 
+  
  ---------------------------------------- */
 
 const handleFirstTab = (e) => {
